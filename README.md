@@ -32,7 +32,7 @@ Este repositorio contiene un modelo de red neuronal 🤖 diseñado para predecir
 
 3. Ejecutar la API:
    ```sh
-   python api/app.py
+   python app.py
    ```
 
 4. Abrir el navegador 🌐 y acceder a la interfaz web en `http://localhost:5000`.
