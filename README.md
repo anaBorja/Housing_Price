@@ -4,9 +4,9 @@ Este repositorio contiene un modelo de red neuronal 🤖 diseñado para predecir
 
 ## 📂 Estructura del Proyecto
 
-- 📁 `model`: Contiene el archivo del modelo de red neuronal entrenado (`house_price_2.h5`).
-- 📁 `scalers`: Contiene los archivos de normalización (`scaler_X.pkl` y `scaler_y.pkl`).
-- 📁 `api`: Contiene el código de la API desarrollada con Flask.
+- 📄 `model`: Contiene el archivo del modelo de red neuronal entrenado (`house_price_2.h5`).
+- 📄 `scalers`: Contiene los archivos de normalización (`scaler_X.pkl` y `scaler_y.pkl`).
+- 📄 `api`: Contiene el código de la API desarrollada con Flask.
 - 📁 `templates/`: Contiene los archivos HTML para la interfaz web.
 - 📄 `requirements.txt`: Lista de dependencias necesarias para ejecutar el proyecto.
 
